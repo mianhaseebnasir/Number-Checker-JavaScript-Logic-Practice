@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4th-Practice</title>
+</head>
+<body>
+    <h1>Number Checker</h1>
+
+<form onsubmit="getNumber(); return false;" >
+    <label for="num">Enter a number</label>
+    <input type="number" name="num" id="num1">
+    <button type="submit">Check</button>
+</form>
+
+<label for="result">Result:</label>
+<input type="text"name="result" id="result" readonly>
+
+    
+
+<script>    
+    function getNumber() {
+        let userName = String(prompt('Enter your name'));
+          console.log(userName);
+        let number = Number(document.getElementById('num1').value);
+          console.log(number);
+
+     if (number % 2 === 0) {
+        document.getElementById('result').value = `${userName} ${number} is an even num.`;
+        console.log(document.getElementById('result').value);
+     }
+     
+     else {
+        document.getElementById('result').value = `${userName} ${number} is an odd num.`;
+        console.log(document.getElementById('result').value);
+     }
+        
+    };
+</script>
+</body>
+</html>
