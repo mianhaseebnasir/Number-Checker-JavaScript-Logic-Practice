@@ -6,6 +6,8 @@ Number Checker is a clean and structured JavaScript practice project built to de
 
 The application takes a user’s input number, processes it through conditional logic, and determines whether it is Even or Odd, while also generating a personalized result message.
 
+_____________________________________________________________________________________________
+
 This project reflects strong foundational understanding of:
 
 • DOM Manipulation
