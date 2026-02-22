@@ -1,4 +1,5 @@
 🚀 Number Checker – JavaScript Logic Practice
+_____________________________________________________________________________________________
 📌 Overview
 
 Number Checker is a clean and structured JavaScript practice project built to demonstrate fundamental programming concepts using Vanilla JavaScript.
@@ -19,6 +20,8 @@ This project reflects strong foundational understanding of:
 
 It is a beginner-focused project developed with a structured and problem-solving approach.
 
+_____________________________________________________________________________________________
+
 ✨ Key Features
 
 ✔ Interactive input form
@@ -28,6 +31,8 @@ It is a beginner-focused project developed with a structured and problem-solving
 ✔ Result displayed without page reload
 ✔ Clean and readable code structure
 
+_____________________________________________________________________________________________
+
 🛠 Tech Stack
 
 • HTML5 – Structure
@@ -36,6 +41,8 @@ It is a beginner-focused project developed with a structured and problem-solving
 
 No external libraries or frameworks were used.
 The goal was to practice core JavaScript concepts in a pure environment.
+
+_____________________________________________________________________________________________
 
 🧠 Core Logic Explanation
 
@@ -55,15 +62,21 @@ The application follows a simple but effective logic flow:
 
 • Prevent default form submission to avoid page reload.
 
+_____________________________________________________________________________________________
+
 Example Output
 
 Mian Haseeb 8 is an even num.
+
+_____________________________________________________________________________________________
 
 📁 Project Structure
 
 index.html
 
 The project is intentionally kept in a single file to focus purely on JavaScript logic practice without structural complexity.
+
+_____________________________________________________________________________________________
 
 🎯 Learning Objectives
 
@@ -81,6 +94,8 @@ This project was built to strengthen:
 
 • Personalized user interaction using prompt()
 
+_____________________________________________________________________________________________
+
 🔄 Possible Enhancements
 
 To upgrade this project further:
@@ -97,12 +112,16 @@ To upgrade this project further:
 
 • Refactor into separate JS file for better structure
 
+_____________________________________________________________________________________________
+
 💡 Why This Project Matters
 
 Small logic-based projects like this are essential for mastering programming fundamentals.
 Before building complex applications, strong control over logic, conditions, and DOM interaction is necessary.
 
 This project represents a foundational step toward advanced JavaScript and full-stack development.
+
+_____________________________________________________________________________________________
 
 👨‍💻 Author
 
@@ -111,5 +130,7 @@ This project represents a foundational step toward advanced JavaScript and full-
 Software Engineer | Full-Stack Developer (AI Focused)
 
 Founder (Upcoming) – Nova-Stack Technologies
+
+_____________________________________________________________________________________________
 
 Dedicated to continuous learning, building real-world projects, and sharing knowledge.
